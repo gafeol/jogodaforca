@@ -7,7 +7,7 @@
 #include <cstdlib>
 using namespace std;
 
-string palavra_secreta = "MELANCIA"; 
+string palavra_secreta; 
 map<char, bool> chutou;
 vector<char> chutes_errados;
 
